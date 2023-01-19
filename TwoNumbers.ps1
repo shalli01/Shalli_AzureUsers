@@ -10,3 +10,6 @@ function TwoNumberFunction {
 
 $equals = TwoNumberFunction
 Write-Host "This is the calculation" = $equals
+
+#thought this would work but not
+#Write-Host "This is the calculation" = TwoNumberFunction
